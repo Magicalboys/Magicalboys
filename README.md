@@ -3,7 +3,7 @@
  A front-end developer who loves open source.
 
 
-🌟 hello！我是沈七，一名热爱技术分享与开源，正在努力成为一名前端工程师。
+🌟 hello！我是沈七，一名热爱技术分享与开源，正在努力成为一名合格的前端工程师。
 
 ✊ 大二软件工程在读。
 
