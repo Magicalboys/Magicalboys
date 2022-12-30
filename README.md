@@ -1,4 +1,4 @@
- Hi 👋，I'm shenqi.
+👋 Hi ，I'm shenqi.
  
  A Front-end developer Who loves open source.
 
