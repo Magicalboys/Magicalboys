@@ -1,7 +1,6 @@
-👋 Hi ，I'm shenqi.
+👋 Hi ，I'm Magical.
  
  A Front-end developer Who loves open source.
-
 
 🌟 hello！我是沈七，一名热爱技术分享与开源，正在努力成为一名合格的前端工程师。
 
