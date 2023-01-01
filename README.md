@@ -1,4 +1,4 @@
-👋 Hi ，I'm Magical.
+👋 Hi,I'm Magical.
  
  A Front-end developer Who loves open source.
 
