@@ -10,7 +10,7 @@
 
 💼 从23年四月份在 [第四范式](https://www.4paradigm.com/about/index.html) 做前端实习生至今 ~
 
-💬 语雀博客 : [沈七·语雀](https://www.yuque.com/magicalboy)
+💬 语雀 &nbsp; 博客：[沈七·语雀](https://www.yuque.com/magicalboy)
 
-✍️ CSDN博客链接：[沈七·CSDN](https://blog.csdn.net/m0_66139206?spm=1011.2441.3001.5343)
+✍️ CSDN  博客：[沈七·CSDN](https://blog.csdn.net/m0_66139206?spm=1011.2441.3001.5343)
 
