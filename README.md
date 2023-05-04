@@ -2,13 +2,15 @@
  
 👉 A Front-end developer Who loves open source.
 
-🌟 hello！我是沈七，一名热爱技术分享与开源，正在努力成为一名合格的前端工程师。
+🎈 唤我沈七就好啦，目前大二软件工程在读。
 
-✊ 大二软件工程在读。
+👻 大一痴迷算法竞赛，运气好混了一个ACM/CCPC省赛银牌。
+
+🚗 从22年九月份正式开始学习的前端，正在向一名合格的前端er的方向努力。
+
+💼 从23年四月份在 [第四范式](https://www.4paradigm.com/about/index.html) 做前端实习生至今 ~
 
 💬 语雀博客 : [沈七·语雀](https://www.yuque.com/shenqikebangle)
 
 ✍️ CSDN博客链接：[沈七·CSDN](https://blog.csdn.net/m0_66139206?spm=1011.2441.3001.5343)
-
-💯 想做最纯粹的知识分享，期待有幸与你一起进步
 
