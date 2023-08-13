@@ -4,13 +4,31 @@
 
 👻 唤我沈七就好啦，目前大二软件工程在读。
 
-🎈 大一痴迷算法竞赛，运气好混了一个ACM/CCPC省赛银牌。
+🎈 大一痴迷算法竞赛，运气好混了一个 ACM/CCPC 省赛银牌。
 
-🚗 从22年九月份正式开始学习的前端，正在向一名合格的前端er的方向努力。
+🚗 从22年9月份正式开始学习的前端，正在向一名合格的前端er的方向努力。
 
-💼 从23年四月份在 [第四范式](https://www.4paradigm.com/about/index.html) 做前端实习生至今 ~
+💼 实习经历
 
-💬 语雀 &nbsp; 博客：[沈七·语雀](https://www.yuque.com/magicalboy)
+<img align="right" width="100" height="100" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
 
-✍️ CSDN  博客：[沈七·CSDN](https://blog.csdn.net/m0_66139206?spm=1011.2441.3001.5343)
+- [百度](https://home.baidu.com/) &emsp; 📌 2023-08 —— 至今
+
+  - 工作岗位：前端实习生
+  - 工作部门：工程效能部-前端研发组
+  - 工作方向：负责 `Devops` 方向 `Web` 前端研发
+ 
+<img align="right" width="100" height="100" src="https://img.bosszhipin.com/beijin/upload/com/workfeel/20210902/7bf6f160950405e98e132c109931137dc49cec6551953cb055c35eea20ce448d12dac96826844a94.jpg" />
+
+- [第四范式](https://www.4paradigm.com/about/index.html) &emsp; 📌 2023-4 —— 2023-7
+
+  - 工作岗位：前端实习生
+  - 工作部门：工程交付部
+  - 工作方向：`web` 应用的 `Electron` 端的开发,部署,上线等全流程跟进
+ 
+
+✍️ 技术博客
+  - 语雀 &nbsp; ：[沈七·语雀](https://www.yuque.com/magicalboy)
+
+  - CSDN  ：[沈七·CSDN](https://blog.csdn.net/m0_66139206?spm=1011.2441.3001.5343)
 
