@@ -28,7 +28,8 @@
  
 
 ✍️ 技术博客
-  - 语雀 &nbsp; ：[沈七·语雀](https://www.yuque.com/magicalboy)
 
-  - CSDN  ：[沈七·CSDN](https://blog.csdn.net/m0_66139206?spm=1011.2441.3001.5343)
+  - [语雀](https://www.yuque.com/magicalboy)
+
+  - [CSDN](https://blog.csdn.net/m0_66139206?spm=1011.2441.3001.5343)
 
