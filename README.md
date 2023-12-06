@@ -15,7 +15,7 @@
 - [百度](https://home.baidu.com/) &emsp;&emsp;&emsp; 📌 2023-08 —— 至今
 
   - 工作岗位：前端实习生
-  - 工作部门：工程效能部-前端研发组
+  - 工作部门：工程效能部
   - 工作方向：负责 `Devops` 方向 `Web` 前端研发
  
 <img align="right" width="100" height="100" src="https://img.bosszhipin.com/beijin/upload/com/workfeel/20210902/7bf6f160950405e98e132c109931137dc49cec6551953cb055c35eea20ce448d12dac96826844a94.jpg" />
