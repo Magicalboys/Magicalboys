@@ -2,7 +2,7 @@
  
 👉 A Front-end developer Who loves open source.
 
-👻 唤我沈七就好啦，目前大二软件工程在读。
+👻 唤我沈七就好啦，目前大三软件工程在读。
 
 🎈 大一痴迷算法竞赛，运气好混了一个 ACM/CCPC 省赛银牌。
 
