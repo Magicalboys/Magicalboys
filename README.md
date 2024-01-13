@@ -12,7 +12,7 @@
 
 <img align="right" width="100" height="100" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
 
-- [百度](https://home.baidu.com/) &emsp;&emsp;&emsp; 📌 2023-08 —— 至今
+- [百度](https://home.baidu.com/Public/img/logo.png) &emsp;&emsp;&emsp; 📌 2023-08 —— 至今
 
   - 工作岗位：前端实习生
   - 工作部门：工程效能部
