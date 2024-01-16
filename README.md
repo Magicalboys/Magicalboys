@@ -1,4 +1,4 @@
-👋 Hi , I'm Magical.
+![image](https://github.com/Magicalboys/Magicalboys/assets/98963572/6faddee1-fb8c-4cec-83a7-0b987aa365aa)👋 Hi , I'm Magical.
  
 👉 A Front-end developer Who loves open source.
 
@@ -12,7 +12,7 @@
 
 <img align="right" width="100" height="100" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
 
-- [百度](https://home.baidu.com/Public/img/logo.png) &emsp;&emsp;&emsp; 📌 2023-08 —— 至今
+- [百度](https://comate.baidu.com/images/comate.png) &emsp;&emsp;&emsp; 📌 2023-08 —— 至今
 
   - 工作岗位：前端实习生
   - 工作部门：工程效能部
