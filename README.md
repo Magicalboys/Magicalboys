@@ -1,4 +1,4 @@
-![image](https://github.com/Magicalboys/Magicalboys/assets/98963572/6faddee1-fb8c-4cec-83a7-0b987aa365aa)👋 Hi , I'm Magical.
+👋 Hi , I'm Magical.
  
 👉 A Front-end developer Who loves open source.
 
@@ -10,13 +10,13 @@
 
 💼 实习经历
 
-<img align="right" width="100" height="100" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
+<img align="right" width="100" height="100" src="https://comate.baidu.com/images/comate.png" />
 
-- [百度](https://comate.baidu.com/images/comate.png) &emsp;&emsp;&emsp; 📌 2023-08 —— 至今
+- [百度]() &emsp;&emsp;&emsp; 📌 2023-08 —— 至今
 
   - 工作岗位：前端实习生
   - 工作部门：工程效能部
-  - 工作方向：负责 `Devops` 方向 `Web` 前端研发
+  - 工作方向：负责 百度智能代码助手 `Comate` 商业化方向 `Web` 前端研发
  
 <img align="right" width="100" height="100" src="https://img.bosszhipin.com/beijin/upload/com/workfeel/20210902/7bf6f160950405e98e132c109931137dc49cec6551953cb055c35eea20ce448d12dac96826844a94.jpg" />
 
