@@ -28,7 +28,7 @@
  
 <img align="right" width="100" height="100" src="https://img.bosszhipin.com/beijin/upload/com/workfeel/20210902/7bf6f160950405e98e132c109931137dc49cec6551953cb055c35eea20ce448d12dac96826844a94.jpg" />
 
-- [第四范式](https://www.4paradigm.com/about/index.html) &emsp; 📌 2023-04 —— 2023-07
+- [第四范式]() &emsp; 📌 2023-04 —— 2023-07
 
   - 工作岗位：前端实习生
   - 工作部门：工程交付部
