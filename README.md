@@ -6,15 +6,13 @@
 
 🎈 大一痴迷算法竞赛，运气好混了一个 ACM/CCPC 省赛银牌。
 
-🚗 从 22 年 9 月份正式开始学习的前端，正在向一名合格的前端er的方向努力。
-
 💼 实习经历
 
 <img align="right" width="100" height="100" src="https://github.com/Magicalboys/Magicalboys/assets/98963572/927b39f6-8927-470b-9244-8b1e7cb9996b" />
 
 - [腾讯]() &emsp;&emsp;&emsp; 📌 2024-05 —— 至今
 
-  - 工作岗位：前端实习生
+  - 工作岗位：全栈工程师
   - 工作部门：应用架构部
   - 工作方向：负责  端一站式平台 `Shiply` 的 前端 开发与维护
 
